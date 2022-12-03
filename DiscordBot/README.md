@@ -1,0 +1,3 @@
+# Discord bot
+
+A failed experiment with Discord bot coding using the discord.py API wrapper. I might return to this one day...
